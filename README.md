@@ -6,7 +6,7 @@ https://kodaktor.ru/08092017
 
 https://c9.io/catrinrumy
 
-DTD для HTML5 определяется в начале документа как `<!DOCTYPE html>`, формальная грамматика DOM - HTML5 определена w3 https://www.w3.org/TR/html5/dom.html
+DTD для HTML5 определяется в начале документа как `<!DOCTYPE html>`, формальная грамматика DOM для HTML5 определена w3 https://www.w3.org/TR/html5/dom.html
 
 
 mockup.png - мокап сайта-портфолио, skills.png - навыки в вебе, skills.xml - пример использования разметки xml-документа
